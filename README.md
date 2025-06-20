@@ -29,6 +29,7 @@ DHT11 Sensor
 Relay Module
 
 📦 Future Improvements
+
 Integration with Wi-Fi (ESP01/ESP8266) for cloud alerts
 
 Mobile notifications using GSM or Blynk
